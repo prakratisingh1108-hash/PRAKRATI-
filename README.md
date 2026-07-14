@@ -19,3 +19,16 @@ MongoDB project for beginners
 
 ## Author 
 Prakrati singh 
+PRAKRATI-
+MongoDB project for beginners 
+
+## This respiratory contains basic mango DB_notes commands and examples for beginners 
+
+##topics covered 
+- Install mangoDB
+- CRUD operations
+- basic commands 
+- sample queries 
+
+## Author 
+Prakrati singh
