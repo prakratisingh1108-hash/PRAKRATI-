@@ -30,6 +30,6 @@ MongoDB project for beginners
 - basic commands 
 - sample queries 
 
-## Author 
+## Author alpha 
 Prakrati singh
 🙂
